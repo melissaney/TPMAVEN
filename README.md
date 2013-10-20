@@ -3,10 +3,7 @@ TPMAVEN
 http://goo.gl/gQj9kw
 
 TP Industrialisation Maven / GIT / Jenkins / SONAR /
-
 Partie 1 : utilisation maven ok
-
-
 Partie 2 : configuration eclipse ok
 
 
