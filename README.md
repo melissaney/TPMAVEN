@@ -26,7 +26,7 @@ Sonar : intégration ok
 
 
 
-Partie 4 : Jenkins => configuration ok, création job ok,
+Partie 4 : Jenkins => configuration ok, création job ok, pas de stabilité de build mais test en succès
 
 ***********************************
 T E S T
